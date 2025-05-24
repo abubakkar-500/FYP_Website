@@ -8,7 +8,7 @@ A modern web application that demonstrates the removal of shadows from images us
 
 ## 🚀 Live Demo
 
-🌐 [View Website](https://abubakkar-500.github.io/ML-Project/) &nbsp; _← replace with actual link after deployment_
+🌐 [View Website](https://github.com/abubakkar-500/FYP_Website.git) &nbsp; _← deployment_
 
 ---
 
