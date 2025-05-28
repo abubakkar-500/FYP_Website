@@ -1,14 +1,14 @@
 # 🎓 Final Year Project – Shadow Removal Web App Using GANs
 
-A modern web application that demonstrates the removal of shadows from images using Generative Adversarial Networks (GANs). Built with ❤️ using **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
+A modern web application that demonstrates the removal of shadows from images using Generative Adversarial Networks (GANs). Built with ❤️ using
+**React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
 
-![banner](https://raw.githubusercontent.com/abubakkar-500/ML-Project/main/public/banner.png) <!-- Replace this with your own image or remove -->
 
 ---
 
 ## 🚀 Live Demo
 
-🌐 [View Website](https://github.com/abubakkar-500/FYP_Website.git) &nbsp; _← deployment_
+🌐 [View Website](https://abubakkar-500.github.io/FYP_Website/) &nbsp; _← deployment_
 
 ---
 
